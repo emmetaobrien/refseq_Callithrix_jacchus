@@ -1,1 +1,1 @@
-This dataset contains FASTA format nucleotide sequence files and GFF format genomic annotation files for the reference sequences for *Callithrix jacchus*(white-tufted-ear marmoset). 
+.git/annex/objects/k9/g4/MD5E-s186--0fed98748f52727b6996f873440103a6.md/MD5E-s186--0fed98748f52727b6996f873440103a6.md
