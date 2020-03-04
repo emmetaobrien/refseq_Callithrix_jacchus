@@ -25,7 +25,7 @@
 	"title": "Callithrix jacchus reference sequence",
 	"description": "Reference genome sequences and annotation files for Callithrix jacchus, as stored in the International Nucleotide Sequence Database.",
 	"storedIn": {
-		"name" : "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Callithrix_jacchus/latest_assembly_versions/GCF_000004665.1_Callithrix_jacchus-3.2/"
+		"name": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/665/GCF_000004665.1_Callithrix_jacchus-3.2"
 	},
 	"distributions": [
 	        {
@@ -60,7 +60,7 @@
 			"type": {
 				"value":"reference data download date"
 			},
-			"date": "2019-04-24 09:57:49"
+			"value": "2020-02-04 14:03:08"
 		}
 	],
 	"dimensions": [
@@ -103,7 +103,7 @@
 			"category": "FTP link to GFF file containing detailed annotations",
 			"values": [
 				{
-					"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/vertebrate_mammalian/Callithrix_jacchus/latest_assembly_versions/GCF_000004665.1_Callithrix_jacchus-3.2/GCF_000004665.1_Callithrix_jacchus-3.2_genomic.gff.gz"
+	"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/665/GCF_000004665.1_Callithrix_jacchus-3.2/GCF_000004665.1_Callithrix_jacchus-3.2_genomic.gff.gz"
 				}
 			]
 		},
