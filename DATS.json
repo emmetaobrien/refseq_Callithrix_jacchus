@@ -60,7 +60,7 @@
 			"type": {
 				"value":"reference data download date"
 			},
-			"value": "2020-02-04 14:03:08"
+			"date": "2020-02-04 14:03:08"
 		}
 	],
 	"dimensions": [
@@ -103,7 +103,7 @@
 			"category": "FTP link to GFF file containing detailed annotations",
 			"values": [
 				{
-	"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/665/GCF_000004665.1_Callithrix_jacchus-3.2/GCF_000004665.1_Callithrix_jacchus-3.2_genomic.gff.gz"
+				"value": "ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/004/665/GCF_000004665.1_Callithrix_jacchus-3.2/GCF_000004665.1_Callithrix_jacchus-3.2_genomic.gff.gz"
 				}
 			]
 		},
