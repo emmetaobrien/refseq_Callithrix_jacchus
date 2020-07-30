@@ -124,6 +124,17 @@
 			]
 		},
 		{
+			"category": "origin",
+			"values": [
+				{
+					"institution": "National Center for Niotechnology Information",
+					"city": "Bethesda",
+					"province": "Maryland",
+					"country": "USA"
+				}
+			]
+		},
+		{
 			"category": "files",
 			"values": [
 				{
