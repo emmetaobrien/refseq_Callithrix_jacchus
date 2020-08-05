@@ -124,13 +124,34 @@
 			]
 		},
 		{
-			"category": "origin",
+			"category": "origin_institution",
 			"values": [
 				{
-					"institution": "National Center for Niotechnology Information",
-					"city": "Bethesda",
-					"province": "Maryland",
-					"country": "USA"
+					"value": "National Center for Biotechnology Information"
+				}
+			]
+		},
+		{
+			"category": "origin_city",
+			"values": [
+				{
+					"value": "Bethesda"
+				}
+			]
+		},
+		{
+			"category": "origin_province",
+			"values": [
+				{
+					"value": "Maryland"
+				}
+			]
+		},
+		{
+			"category": "origin_country",
+			"values": [
+				{
+					"value": "USA"
 				}
 			]
 		},
