@@ -30,7 +30,7 @@
 	"distributions": [
 	        {
 			"formats": [
-				".GFF",
+				"GFF",
 				"FASTA"
             		],
 			"size" : 2.8,
