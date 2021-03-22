@@ -4,7 +4,7 @@
 		"identifierSource": "DOI"
 	},
 	"version": "GCF_009663435.1_Callithrix_jacchus_cj1700_1.1",
-	"privacy": "public open",
+	"privacy": "open",
 	"licenses": [
 		{
 			"name": "CC BY-NC-SA"
@@ -18,6 +18,10 @@
 	"types": [
 		{
 			"information": {
+                "identifier": {
+                    "identifier": "ilx_0741204",
+                    "identifierSource":"http://uri.interlex.org/ilx_0741204"
+                },
 				"value": "genomics"
 			}
 		}
