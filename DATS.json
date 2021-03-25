@@ -17,13 +17,11 @@
 	],
 	"types": [
 		{
-			"information": {
-                "identifier": {
-                    "identifier": "ilx_0741204",
-                    "identifierSource":"http://uri.interlex.org/ilx_0741204"
-                },
-				"value": "genomics"
-			}
+            "identifier": {
+                "identifier": "ilx_0741204",
+                "identifierSource":"http://uri.interlex.org/ilx_0741204"
+            },
+    		"value": "genomics"
 		}
 	],
 	"title": "Callithrix jacchus reference sequence",
