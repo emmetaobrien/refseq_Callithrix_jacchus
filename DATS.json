@@ -93,8 +93,8 @@
 	"isAbout": [
 		{
 			"identifier": {
-				"identifier": "9483",
-				"identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9483"
+				"identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9483",
+				"identifierSource": "NCBI Taxonomy Database"
 			},
 			"name":"Callithrix jacchus"
 		}
