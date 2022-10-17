@@ -4,10 +4,10 @@
 		"identifierSource": "DOI"
 	},
 	"version": "GCF_009663435.1_Callithrix_jacchus_cj1700_1.1",
-	"privacy": "public open",
+	"privacy": "open",
 	"licenses": [
 		{
-			"name": "BY-NC-SA"
+			"name": "CC BY-NC-SA"
 		}
 	],
 	"creators": [
@@ -17,9 +17,10 @@
 	],
 	"types": [
 		{
-			"information": {
-				"value": "genomics"
-			}
+            "information": {
+                "value": "genomics",
+                "valueIRI":"http://uri.interlex.org/ilx_0741204"
+            }
 		}
 	],
 	"title": "Callithrix jacchus reference sequence",
@@ -30,7 +31,7 @@
 	"distributions": [
 	        {
 			"formats": [
-				".GFF",
+				"GFF",
 				"FASTA"
             		],
 			"size" : 2.8,
@@ -92,8 +93,8 @@
 	"isAbout": [
 		{
 			"identifier": {
-				"identifier": "9483",
-				"identifierSource":"https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9483"
+				"identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9483",
+				"identifierSource": "NCBI Taxonomy Database"
 			},
 			"name":"Callithrix jacchus"
 		}
@@ -160,6 +161,14 @@
 			"values": [
 				{
 					"value": "2"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "0"
 				}
 			]
 		},
